@@ -1,0 +1,9 @@
+# Folders
+/vendor/
+/node_modules/
+
+# Others
+.DS_Store
+.env.local
+*.log
+*.local
